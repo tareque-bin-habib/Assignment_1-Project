@@ -56,6 +56,7 @@ body{
 }
 .main{
     margin-top: 5%;
+    margin-bottom: 4%;
 }
 .main h1{
     text-align: center;
@@ -95,4 +96,21 @@ body{
 }
 .faulty_head{
     margin-top: 40px;
+}
+.pic_radius img{
+    width: 80%;
+    border-radius: 40px;
+}
+.head-3{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+.pera_4{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+.link{
+    margin-left: 0px;
 }
