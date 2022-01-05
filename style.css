@@ -120,3 +120,51 @@ body{
     background-repeat: no-repeat;
     background-position: right;
 }
+.extra img{
+    width: 90%;
+    border-radius: 40px;
+}
+.html_main{
+    width: 80%;
+    height: 5px;
+    background-color: grey;
+}
+.html{
+    width: 80%;
+    height: 5px;
+    background-color: #FFBF21;
+}
+.css{
+    width: 70%;
+    height: 5px;
+    background-color: #FFBF21;
+}
+.bots{
+    width: 60%;
+    height: 5px;
+    background-color: #FFBF21;
+}
+.js{
+    width: 50%;
+    height: 5px;
+    background-color: #FFBF21;
+}
+.head_4{
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    color: #fff;
+    height: 250px;
+}
+.head_footer{
+    font-size: 30px;
+    padding-top: 50px;
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.pera_footer{
+    font-family: 'Roboto', sans-serif;
+}
