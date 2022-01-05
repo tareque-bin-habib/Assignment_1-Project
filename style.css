@@ -3,6 +3,7 @@ body{
 }
 .flexible_container{
     display: flex;
+    margin-bottom: 5%;
 }
 .half_width{
     width: 40%;
@@ -113,4 +114,9 @@ body{
 }
 .link{
     margin-left: 0px;
+}
+.shapes{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
