@@ -54,3 +54,45 @@ body{
     position: absolute;
     top: 28%;
 }
+.main{
+    margin-top: 5%;
+}
+.main h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+.one_third{
+    width: 25%;
+    height: 430px;
+    border-radius: 40px;
+    margin-left: 6%;
+}
+.mission{
+    background-color: #EDF5F6;
+}
+.vission{
+    background-color: #FFEEEE;
+}
+.goal{
+    background-color: #FFF4D6;
+}
+.tomato{
+    color: tomato;
+}
+.one_third img{
+    width: 45%;
+}
+.main_head{
+    font-size: 25px;
+    margin-left: 7%;
+    font-family: 'Poppins', sans-serif;
+}
+.pera_3{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 7%;
+}
+.faulty_head{
+    margin-top: 40px;
+}
