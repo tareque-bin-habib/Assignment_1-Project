@@ -54,6 +54,7 @@ body{
     height: 159px;
     position: absolute;
     top: 28%;
+    border-radius: 20px;
 }
 .main{
     margin-top: 5%;
